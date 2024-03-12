@@ -1,0 +1,39 @@
+body{
+    margin: 50px;
+    font-size: 20px;
+}
+ul{
+    background-color: #15A3EF;
+    width: 20%;
+    padding: 60px;
+    list-style-type: none;
+}
+ul li{
+    background-color: #C6E8FB;
+    padding: 8px;
+    margin: 8px;
+    color: blue;
+    
+}
+ul li:hover{
+    color: white;
+    background-color: red;
+}
+ol{
+    background-color: #AB420A;
+    width: 20%;
+    padding: 60px;
+    list-style-type: none;
+
+
+}
+ol li{
+    padding: 8px;
+    background-color:#F8B48F ;
+    margin: 8px;
+    color: blueviolet;
+}
+ol li:hover{
+    color: white;
+    background-color:#D9BB41 ;
+}
