@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+#header{
+    height: 150px;
+    width: 100%;
+    background-color: skyblue;
+}
+#banner{
+    height: 300px;
+    width: 100%;
+    background-color: aquamarine;
+    overflow: hidden;
+}
+#intro{
+    height: 300px;
+    width: 100%;
+    background-color: yellow;
+    overflow: hidden;
+}
+#box1{
+    height:300px;
+    width: 32%;
+    background-color: green;
+    overflow: hidden;
+    float: left;
+    margin-right: 2%;
+}
+#box2{
+    height: 300px;
+    width: 32%;
+    background-color: red;
+    overflow: hidden;
+    float: left;
+    margin-right: 2%;
+}
+#box3{
+    height: 300px;
+    width: 32%;
+    background-color: orange;
+    overflow: hidden;
+    float: right;
+}
+#footer{
+    height: 200px;
+    width: 100%;
+    background-color: blueviolet;
+    overflow: hidden;
+}
