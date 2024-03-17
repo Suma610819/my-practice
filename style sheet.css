@@ -1,0 +1,47 @@
+body{
+    background-color:#223969 ;
+    background-attachment: fixed;
+    border: skyblue;
+    box-shadow: 2px;
+    
+}
+
+#header img{
+    margin-left: 45%;
+    margin-right: 40%;
+    height: 250px;
+    width: 200px;
+    margin-top: 50px;
+}
+#header h3 {
+    margin-left: 46%;
+    margin-right: 40%;
+    padding: 3px;
+    font-size: 25px;
+    color: white;
+    
+}
+#header p{
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 30%;
+    color: whitesmoke;
+    margin-top: 10px;
+    font-size: 17px;
+    margin-bottom: 50px;
+
+}
+#middle{
+    margin-left: 13%;
+    color: green;
+    
+}
+#middle h3{
+    color: white;
+}
+#middle p{
+    color: white;
+    padding: 2px;
+    margin: 2px;
+    font-size: 16px;
+}
